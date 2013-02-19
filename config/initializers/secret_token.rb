@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Peijian::Application.config.secret_token = '2c00b9952b0fdaa0edde83a8bbaf40a51a6c58339de823df2275e1b999cab115e6e34107711293b446a5716ef7794404963f05307d2ee549df1961a0eda60ea7'
+Peijian::Application.config.secret_token = '4e831a28dc117f1c87dcb6948e7b820dd3a30aff04077404a1a94afe2ac7a04fbdca53b2cf921fd21d0d6580b84139fc1ed8f1355c70ef7bac0613f0880d26da'
